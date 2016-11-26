@@ -9,7 +9,7 @@
     "conversion",
     "macro"
   ],
-  "license": "MIT",
+  "license": "Public Domain",
   "src": [
     "metric.h"
   ]
