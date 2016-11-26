@@ -1,0 +1,16 @@
+{
+  "name": "metric",
+  "version": "1.03",
+  "repo": "vonj/snippets",
+  "description": "Metric conversion macros",
+  "keywords": [
+    "metric",
+    "customary",
+    "conversion",
+    "macro"
+  ],
+  "license": "MIT",
+  "src": [
+    "metric.h"
+  ]
+}
