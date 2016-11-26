@@ -1,6 +1,6 @@
 {
   "name": "metric",
-  "version": "1.03",
+  "version": "master",
   "repo": "vonj/snippets",
   "description": "Metric conversion macros",
   "keywords": [
